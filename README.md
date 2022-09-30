@@ -17,4 +17,4 @@
 - Увеличиваем значение "j" на 1.
 - Если условие не выполняется, возвращаемся в цикл.
 
-__*Путь к блок-схеме:*__ ![Блок схема] (https://github.com/KsuKudrina/ControlFirstQuarter/tree/master/BlockDiagram)
+__*Путь к блок-схеме:*__ ![Блок схема] (https://github.com/KsuKudrina/ControlFirstQuarter/blob/master/BlockDiagram/Block_Diagram.jpg)
